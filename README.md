@@ -1,0 +1,1 @@
+### fa-snapchat - standalone icon that works with fontawesome
