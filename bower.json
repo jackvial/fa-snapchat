@@ -1,0 +1,20 @@
+{
+  "name": "fa-snapchat",
+  "version": "0.1.0",
+  "authors": [
+    "Jack Vial <vialjack@gmail.com>"
+  ],
+  "description": "Snapchat Icon for font awesome",
+  "main": "index.html",
+  "keywords": [
+    "Snapchat",
+    "font",
+    "awesome",
+    "fa"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jackvial",
+  "dependencies": {
+    "fontawesome": "~4.3.0"
+  }
+}
