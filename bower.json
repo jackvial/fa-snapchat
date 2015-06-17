@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/jackvial",
-  "dependencies": {
+  "devDependencies": {
     "fontawesome": "~4.3.0"
   }
 }
