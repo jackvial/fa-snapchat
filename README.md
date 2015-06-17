@@ -19,3 +19,5 @@ Have a look at ```index.html``` to see an example of the icon being used
 ```html
 <i class="fa fa-snapchat fa-2x"></i>
 ```
+
+[Example](http://jackvial.github.io/fa-snapchat/)
