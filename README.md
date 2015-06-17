@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/jackvial/fa-snapchat/archive/v0.1.0.tar.gz)
+- [Download the latest release](https://github.com/jackvial/fa-snapchat/archive/v0.1.2.tar.gz)
 - Clone the repo: ```https://github.com/jackvial/fa-snapchat.git```
 - Install with bower: ```bower install fa-snapchat```
 
