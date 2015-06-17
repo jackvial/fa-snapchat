@@ -4,10 +4,11 @@
 
 - [Download the latest release](https://github.com/jackvial/fa-snapchat/archive/v0.1.0.tar.gz)
 - Clone the repo: ```https://github.com/jackvial/fa-snapchat.git```
+- Install with bower: ```bower install fa-snapchat```
 
 Have a look at ```index.html``` to see an example of the icon being used
 
-### Instructions
+## Instructions
 
 - Copy ```fa-snapchat.css``` and the ```fonts/``` folder to your project.
 - Include ```fa-snapchat.css``` after font awesome in your document. 
